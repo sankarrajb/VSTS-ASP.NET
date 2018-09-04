@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+/* Tests cases */
 namespace aspnet4_test
 {
     [TestClass]
